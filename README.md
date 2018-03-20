@@ -1,4 +1,4 @@
-# NginxTutorials
+# NginxCeviriProjesi
 
 Nginx Medium gönderilerinin olduğu depo.
 
