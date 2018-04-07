@@ -1,6 +1,5 @@
 # NginxCeviriProjesi
-<h2>Yük Dengeleme </h2>
-
+<h3>Yük Dengeleme </h3>
 <ul>
   
 <li >Dizin ve Betiklerin bulunduğu dizin 
